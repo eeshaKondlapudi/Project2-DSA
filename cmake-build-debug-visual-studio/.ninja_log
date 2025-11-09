@@ -1,0 +1,11 @@
+# ninja log v6
+8	136	7843525360606243	CMakeFiles/Project2_DSA.dir/merge_sort.cpp.obj	e5c0d3ba5a2ead34
+5	263	7843525360576339	CMakeFiles/Project2_DSA.dir/heap_sort.cpp.obj	e7bd8e2e5864d4f1
+10	963	7843525360626178	CMakeFiles/Project2_DSA.dir/visualisation.cpp.obj	c4b4c7991b48336c
+2	1576	7843525360546440	CMakeFiles/Project2_DSA.dir/main.cpp.obj	dc22fe858804c9f1
+1576	1799	7843525376284946	Project2_DSA.exe	ecf48288985dfda5
+15	963	7843529149944775	CMakeFiles/Project2_DSA.dir/visualisation.cpp.obj	c4b4c7991b48336c
+963	1084	7843529159428120	Project2_DSA.exe	ecf48288985dfda5
+7	1072	7843529402733481	CMakeFiles/Project2_DSA.dir/visualisation.cpp.obj	c4b4c7991b48336c
+3	1724	7843529402693616	CMakeFiles/Project2_DSA.dir/main.cpp.obj	dc22fe858804c9f1
+1724	1878	7843529419911333	Project2_DSA.exe	ecf48288985dfda5
