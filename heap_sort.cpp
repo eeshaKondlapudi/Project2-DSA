@@ -1,11 +1,13 @@
 //code for heap sort algorithm in C++
+#include "heap_sort.h"
 #include <iostream>
-#include <vector>  
+#include <algorithm>
+#include <vector>
 using namespace std;
 void heapify(vector<int>& arr, int n, int i) {
-    int largest = i; 
-    int left = 2 * i + 1; 
-    int right = 2 * i + 2; 
+    int largest = i;
+    int left = 2 * i + 1;
+    int right = 2 * i + 2;
 
     if (left < n && arr[left] > arr[largest])
         largest = left;

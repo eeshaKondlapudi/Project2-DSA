@@ -14,7 +14,7 @@ int main() {
       dataset::ElevationData elevation_data;
 
       try {
-          elevation_data = ds.getElevationData(41.03, -98.03, 42.50, -96.94);
+          elevation_data = ds.getElevationData(-1, -1, 1, 1);
       } catch(...) {
           cerr << "Elevation data could not be read" << endl;
           return 1;
